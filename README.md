@@ -1,2 +1,2 @@
 # .Alura-Books
-Alura Bools para telas 360px
+Alura Bookspara telas 360px
