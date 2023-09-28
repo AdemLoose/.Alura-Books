@@ -1,0 +1,173 @@
+.carrossel__titulo {
+    background-color: var(--cor-background);
+    color: var(--laranja);
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 1em 0 1em 0;
+}
+
+.swiper img {
+    width: 100%;
+}
+
+.swiper-button-next , .swiper-button-prev {
+    display: none;
+}
+
+.swiper-scrollbar {
+    display: none;
+}
+
+.swiper-pagination {
+    position: initial;
+    padding: 0.5em 0;
+}
+
+.card {
+    border-radius: 16px;
+    border: 1px solid #000;
+    background: var(--cor-background);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin: 1em;
+    padding: 1em;
+}
+
+.descricao {
+    padding: 0.5em;
+}
+
+.descricao__titulo {
+    color: var(--laranja);
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.descricao__titulo__livro {
+    color: var(--azul-escuro);
+    font-weight: 700;
+    font-size: 22px;
+    margin: 1.5em 0;
+}
+
+.descricao__texto {
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.85);
+    font-weight: 400;
+}
+
+
+.card__descricao {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card__botoes {
+    display: flex;
+    justify-content: space-between;
+    padding: 2em;
+}
+
+.card__botoes1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.botoes {
+    display: flex;
+}
+
+.botoes__item {
+    margin: 0.5em;
+    padding: 2em;
+    height: 80px;
+    width: 80px;
+}
+
+.botao__ancora {
+    padding: 1em;
+    margin: 0.5em ;
+    text-decoration: none;
+    color: var(--cor-background);
+    background-color: var(--laranja);
+    font-size: 19px;
+}
+
+.carrossel2__titulo {
+    color: var(--laranja);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    background-color: var(--cor-background);
+    text-align: center;
+    text-transform: uppercase;
+    padding: 1em 0 1em 0;
+}
+
+.card__2 {
+    border-radius: 10px;
+    border: 1px solid #000;
+    background: var(--cor-background);
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    margin: 1em;
+    padding: 1em;
+
+}
+
+.card2__descricao {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card2__conteudo {
+    margin: 1em;
+}
+
+.imagem__estrelinhas {
+    margin: 3em 0 2em 0;
+ 
+}
+.card2__titulo {
+    color: var(--laranja);
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.card2__nome-escritora {
+    color: var(--azul-escuro);
+    font-size: 35px;
+    font-weight: 700;
+    margin: 2em 0;
+ }
+.card2__texto {
+    font-size: 26px;
+    font-weight: 400;
+}
+
+
+
+.imagem__escritora {
+    padding: 4em 0 1.5em 4em;
+    height: auto;
+    width: auto;
+}
+
+.botao__ancora2 {
+    padding: 1em;
+    margin: 0 1em 1.5em 0;
+    text-decoration: none;
+    color: var(--cor-background);
+    background-color: var(--laranja);
+    font-size: 24px;
+    width: 30%;
+    align-content: center;
+    
+}
+
+
+.botao__ancora1 {
+    margin: 1em;
+    padding: 1em;
+
+}

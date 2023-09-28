@@ -1,0 +1,28 @@
+.contato {
+  background-color: var( --cor-background);
+  padding: 3.5em;
+}
+
+.contato__titulo {
+    background: var(--Teste, linear-gradient(98deg, #002F52 35.49%, #326589 165.37%));
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.texto__contato {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 300;
+}
+
+.contato__email {
+    display: inline-flex;
+    height: 44px;
+    padding: 10px 24px;
+    align-items: center;
+    gap: 10px;
+    border-radius: 24px;
+    border: 1px solid var(--Teste, #002F52);
+    
+}

@@ -1,0 +1,17 @@
+
+:root {
+    --cor-de-fundo: #C4C4C4;
+    --cor-background: #fff;
+    --laranja: #EB9B00;
+    --azul-escuro: #002F52;
+    --azul-degrade: linear-gradient(98deg, #002F52 70%, #326589 104%);
+    --fonte-principal:'Poppins';
+}
+
+body {
+    background-color:  var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+}
+
